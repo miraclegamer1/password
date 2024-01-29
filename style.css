@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://www.cybermagonline.com/img/sayfa/1603459856-s-irketlerin-ve-c-al-s-anlar-n-bu-k-s-uygulamas-gereken-6-siber-gu-venlik-ad-m-3-.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    width: 80%;
+    max-width: 300px;
+  }
+  
+  #thi {
+    margin-top: 50px;
+    color: aliceblue;
+    text-align: center;
+  }
